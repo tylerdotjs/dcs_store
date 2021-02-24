@@ -1,0 +1,22 @@
+{
+  "name": "dcs_store",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerdotjs/dcs_store.git"
+  },
+  "author": "Tyler LaPalm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerdotjs/dcs_store/issues"
+  },
+  "homepage": "https://github.com/tylerdotjs/dcs_store#readme",
+  "dependencies": {
+    "mongoose": "^5.11.18"
+  }
+}
